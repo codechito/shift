@@ -1,0 +1,1255 @@
+{
+    "port": 3000,
+    "SearchURL": "http://help.burstsms.com/support/search/",
+    "SupportURL": "http://help.burstsms.com/support/home",
+    "List": [
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us",
+          "New URL": "http://help.burstsms.com/support/home"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115000575326-How-to-view-responses-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076920-how-to-view-responses-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115001268543-How-to-send-a-link-to-update-contact-details-in-a-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076912-how-to-send-a-link-to-update-contact-details-in-a-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115002011183-How-to-define-a-Custom-Sender-ID-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076914-how-to-define-a-custom-sender-id-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115002171203-How-to-send-your-campaign-in-segments-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076915-how-to-send-your-campaign-in-segments-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115002200126-How-to-save-a-message-template-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076916-how-to-save-a-message-template-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115002204046-How-to-reschedule-a-campaign",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076913-how-to-reschedule-a-campaign"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115002722626-My-cursor-keeps-on-moving-when-I-try-to-type-my-message-Internet-Explorer-bug",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076861-my-cursor-keeps-on-moving-when-i-try-to-type-my-message-internet-explorer-bug"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115003701166-Google-Calendar-SMS-Reminders",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077058-google-calendar-sms-reminders"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115003703406-Campaign-Monitor-Add-subscribers-to-Burst-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077056-campaign-monitor-add-subscribers-to-burst-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115003743906-Salesforce-SMS-Integration",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076972-salesforce-sms-integration"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115003747566-WooCommerce-SMS-Integration",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076909-woocommerce-sms-integration"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115003756243-Sync-Google-Sheet-with-Burst-SMS-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076907-sync-google-sheet-with-burst-sms-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115003855723-How-to-Avoid-Sending-SMS-SPAM-Singapore-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076956-how-to-avoid-sending-sms-spam-singapore-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115003963763-How-to-add-emojis-into-your-message",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076905-how-to-add-emojis-into-your-message"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115004725383-HubSpot-SMS-Integration",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076967-hubspot-sms-integration"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115004843226-What-is-my-API-Secret-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077022-what-is-my-api-secret-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115004982106-How-to-add-a-user",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077021-how-to-add-a-user"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005398206-How-to-message-Internationally-with-Quick-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076959-how-to-message-internationally-with-quick-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005404583-Have-recipients-text-in-a-Keyword-and-automatically-prompt-them-to-enter-their-details",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076961-have-recipients-text-in-a-keyword-and-automatically-prompt-them-to-enter-their-details"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005585626-Trigger-an-SMS-upon-receiving-an-Email-with-Zapier",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076962-trigger-an-sms-upon-receiving-an-email-with-zapier"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005627586-Oracle-Eloqua-Burst-SMS-Installation-and-Guide",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077016-oracle-eloqua-burst-sms-installation-and-guide"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005632323-add-contacts-bulk",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077047-add-contacts-bulk"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005703883-get-link-hits",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076993-get-link-hits"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005735843-Add-Campaign-Monitor-Subscribers-from-SMS-Received-by-Burst-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076977-add-campaign-monitor-subscribers-from-sms-received-by-burst-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005736643-Add-New-Typeform-Contacts-to-a-Burst-SMS-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076983-add-new-typeform-contacts-to-a-burst-sms-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005736803-Get-SMS-Alerts-when-Eventbrite-Orders-are-made",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076986-get-sms-alerts-when-eventbrite-orders-are-made"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005743066-Add-New-AWeber-Subscribers-to-a-Burst-SMS-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076978-add-new-aweber-subscribers-to-a-burst-sms-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005743586-Add-JotForm-Submitters-to-a-Burst-SMS-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076980-add-jotform-submitters-to-a-burst-sms-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005743666-Add-Knack-Respondents-to-a-Burst-SMS-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076981-add-knack-respondents-to-a-burst-sms-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005743746-Forward-Burst-SMS-Messages-through-SendGrid-Emails",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076984-forward-burst-sms-messages-through-sendgrid-emails"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/115005744006-Receive-PayPal-Sale-Alerts-via-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076975-receive-paypal-sale-alerts-via-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/200360589-4-Cool-Ways-to-use-Keywords-and-Virtual-Numbers-for-SMS-Marketing-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076971-4-cool-ways-to-use-keywords-and-virtual-numbers-for-sms-marketing-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/200506879-Gold-Virtual-Numbers-Australia",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077064-gold-virtual-numbers-australia"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/200698319-get-balance",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076856-get-balance"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/200736639-Uploading-contacts-to-Burst-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076949-uploading-contacts-to-burst-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/200977465-cancel-sms",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076854-cancel-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/201627889-Data-Archiving-Policy",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077072-data-archiving-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/201766089-Infusionsoft-SMS-Automation-for-Campaigns",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077042-infusionsoft-sms-automation-for-campaigns"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017176-How-can-I-get-replies-to-my-campaigns-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076932-how-can-i-get-replies-to-my-campaigns-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017186-How-do-I-remove-contacts-from-the-Global-Opt-Out-list-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077019-how-do-i-remove-contacts-from-the-global-opt-out-list-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017196-Can-I-get-a-specific-dedicated-virtual-number-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076753-can-i-get-a-specific-dedicated-virtual-number-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017206-I-don-t-have-access-to-a-credit-card-can-I-pay-another-way-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076788-i-don-t-have-access-to-a-credit-card-can-i-pay-another-way-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017216-What-does-a-message-with-a-pending-status-mean-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076958-what-does-a-message-with-a-pending-status-mean-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017226-What-is-the-difference-between-Standard-and-Power-Pricing-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077008-what-is-the-difference-between-standard-and-power-pricing-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017236-Can-I-add-contacts-by-re-uploading-a-new-file-to-the-same-list-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076752-can-i-add-contacts-by-re-uploading-a-new-file-to-the-same-list-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017246-If-I-use-a-firstname-variable-in-my-message-how-do-I-count-my-SMS-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076813-if-i-use-a-firstname-variable-in-my-message-how-do-i-count-my-sms-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017256-Do-spaces-and-line-breaks-add-to-my-character-count-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077103-do-spaces-and-line-breaks-add-to-my-character-count-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017266-Does-Burst-SMS-own-the-contacts-my-clients-upload-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076808-does-burst-sms-own-the-contacts-my-clients-upload-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017286-What-is-the-Keyword-Margin-fee-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076722-what-is-the-keyword-margin-fee-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017296-Do-Burst-SMS-terms-and-SPAM-pand-Privacy-policies-cover-me-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001075777-do-burst-sms-terms-and-spam-pand-privacy-policies-cover-me-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017306-What-happens-when-the-client-uses-the-Contact-Form-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076720-what-happens-when-the-client-uses-the-contact-form-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202017316-How-do-I-charge-my-clients-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077070-how-do-i-charge-my-clients-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202023933-Can-I-delete-bounced-messages-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076755-can-i-delete-bounced-messages-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202023953-I-forgot-my-password-and-can-t-login-How-can-I-get-my-details-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076806-i-forgot-my-password-and-can-t-login-how-can-i-get-my-details-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202023963-My-account-has-been-removed-can-it-be-reactivated-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076717-my-account-has-been-removed-can-it-be-reactivated-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202023973-What-countries-do-you-currently-deliver-to-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077061-what-countries-do-you-currently-deliver-to-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202023993-I-have-numbers-from-different-countries-in-my-list-will-they-import-and-send-OK-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076797-i-have-numbers-from-different-countries-in-my-list-will-they-import-and-send-ok-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024003-Do-I-need-to-pre-format-all-the-numbers-in-my-list-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076748-do-i-need-to-pre-format-all-the-numbers-in-my-list-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024013-Can-I-upload-bulk-contacts-in-a-text-file-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076786-can-i-upload-bulk-contacts-in-a-text-file-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024033-Can-we-credit-our-account-not-using-credit-card-The-processing-fee-is-too-high-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076738-can-we-credit-our-account-not-using-credit-card-the-processing-fee-is-too-high-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024043-Can-we-pay-on-account-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076750-can-we-pay-on-account-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024053-How-do-I-Resell-Virtual-Numbers-and-Keywords-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077010-how-do-i-resell-virtual-numbers-and-keywords-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024063-How-do-I-handle-technical-support-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076827-how-do-i-handle-technical-support-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024073-Does-it-cost-anything-to-be-a-reseller-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077002-does-it-cost-anything-to-be-a-reseller-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024083-Is-there-a-way-to-see-what-my-client-sees-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076675-is-there-a-way-to-see-what-my-client-sees-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024093-Can-I-use-my-own-URL-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076718-can-i-use-my-own-url-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024103-Can-I-rebrand-white-label-the-Burst-SMS-product-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076765-can-i-rebrand-white-label-the-burst-sms-product-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024193-How-do-I-get-paid-my-margins-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076719-how-do-i-get-paid-my-margins-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202024203-Video-introduction-to-becoming-a-Burst-SMS-Reseller",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076768-video-introduction-to-becoming-a-burst-sms-reseller"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202038563-Anti-Spam-Policy",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077041-anti-spam-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202047496",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077099-privacy-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202047496-Privacy-Policy",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077099-privacy-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202047506",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077035-sla-support-agreement"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202047506-Service-Level-Agreement",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077035-sla-support-agreement"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202047506-SLA-Support-Agreement",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077035-sla-support-agreement"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202058783-Transmit-SMS-API-Client-Libraries",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077051-transmit-sms-api-client-libraries"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202058793-SMS-API-Fundamentals",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077105-sms-api-fundamentals"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202064243-get-sms-responses",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076840-get-sms-responses"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202064413-get-lists",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076963-get-lists"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202064463-delete-from-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076843-delete-from-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202064593-get-number",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077081-get-number"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202064603-delete-email",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076848-delete-email"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202064623-edit-keyword",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076995-edit-keyword"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202064643-add-keyword",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076994-add-keyword"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202091853-edit-client",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076764-edit-client"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202091863-get-client",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076802-get-client"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202102676-get-sms",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077052-get-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202102716-add-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076841-add-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202107886-edit-list-member",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076990-edit-list-member"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202108016-lease-number",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076838-lease-number"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202108026-get-numbers",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077075-get-numbers"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202108046-get-transaction",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076758-get-transaction"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202116806-add-client",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076857-add-client"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382667-I-sent-a-message-and-the-person-didn-t-get-it-what-happened-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076756-i-sent-a-message-and-the-person-didn-t-get-it-what-happened-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382677-I-am-delivering-my-campaign-but-all-my-messages-are-marked-as-Pending-what-is-going-on-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076761-i-am-delivering-my-campaign-but-all-my-messages-are-marked-as-pending-what-is-going-on-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382697-What-characters-can-I-use-in-my-text-messages-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076784-what-characters-can-i-use-in-my-text-messages-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382707-I-can-only-credit-200-Why-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076799-i-can-only-credit-200-why-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382717-Are-we-able-to-send-MMS-messages-to-our-contacts-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076831-are-we-able-to-send-mms-messages-to-our-contacts-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382727-Is-a-Dedicated-Virtual-Number-required-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076778-is-a-dedicated-virtual-number-required-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382737-Can-users-be-opted-out-of-my-lists-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076899-can-users-be-opted-out-of-my-lists-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382747-Does-it-take-a-long-time-to-upload-a-lot-of-contacts-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076751-does-it-take-a-long-time-to-upload-a-lot-of-contacts-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382777-Can-I-import-a-suppression-list-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077024-can-i-import-a-suppression-list-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382787-How-am-I-protected-from-credit-card-fraud-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001075779-how-am-i-protected-from-credit-card-fraud-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382797-Can-I-resell-the-API-Email-to-SMS-and-other-features-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076737-can-i-resell-the-api-email-to-sms-and-other-features-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382807-Will-my-clients-see-any-Burst-SMS-information-or-branding-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076760-will-my-clients-see-any-burst-sms-information-or-branding-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382817-Can-I-run-a-subscription-type-service-and-charge-a-monthly-fee-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076790-can-i-run-a-subscription-type-service-and-charge-a-monthly-fee-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382827-What-appears-on-my-client-s-statement-for-monthly-charges-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077071-what-appears-on-my-client-s-statement-for-monthly-charges-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202382837-Add-a-custom-login-box-to-your-site",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077005-add-a-custom-login-box-to-your-site"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401628-The-Burst-SMS-GiveEasy-SMS-Donations-Platform",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076997-the-burst-sms-giveeasy-sms-donations-platform"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401648-Singapore-Do-Not-Call-Register-Check-DNC-Registry",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076745-singapore-do-not-call-register-check-dnc-registry"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401678-Tips-for-composing-well-received-SMS-marketing-text-messages",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076742-tips-for-composing-well-received-sms-marketing-text-messages"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401688-5-expert-tips-for-creating-the-perfect-SMS-marketing-message-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076785-5-expert-tips-for-creating-the-perfect-sms-marketing-message-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401698-Simple-SMS-Marketing-Guide",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076777-simple-sms-marketing-guide"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401708-5-best-practice-tips-to-create-an-SMS-campaign",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076759-5-best-practice-tips-to-create-an-sms-campaign"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401728-Who-needs-MMS-Deliver-visual-interactive-mobile-coupons-using-SMS-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076809-who-needs-mms-deliver-visual-interactive-mobile-coupons-using-sms-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401738-Setting-up-and-Sending-Email-to-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076951-setting-up-and-sending-email-to-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401768-Group-Messaging-Plugins",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076832-group-messaging-plugins"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401778-Limit-Keyword-Auto-Responses-for-Coupon-Delivery",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076955-limit-keyword-auto-responses-for-coupon-delivery"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401788-Forward-Keyword-Responses-to-Your-Email-Address",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076954-forward-keyword-responses-to-your-email-address"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401798-Lead-Engagement-via-2-Way-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076783-lead-engagement-via-2-way-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401808-Mobile-App-Distribution",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076741-mobile-app-distribution"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401818-Custom-Caller-ID-vs-Response-Number",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076773-custom-sender-id-vs-response-number"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401818-Custom-Sender-ID-vs-Response-Number",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076773-custom-sender-id-vs-response-number"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401828-Delivering-Mobile-Video-s",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076740-delivering-mobile-video-s"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401838-Trigger-a-Campaign-Monitor-Auto-Response-Email-using-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076953-trigger-a-campaign-monitor-auto-response-email-using-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401848-Catching-Incorrectly-Spelt-Keywords",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076929-catching-incorrectly-spelt-keywords"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401858-Receiving-General-SMS-to-Email",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076933-receiving-general-sms-to-email"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401868-Setup-Redirect-Code-for-Web-Form",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076775-setup-redirect-code-for-web-form"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401878-Receiving-Campaign-Responses-to-Email",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076800-receiving-campaign-responses-to-email"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401888-Catch-All-SMS-to-Email-on-Dedicated-Virtual-Mobile-Numbers",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076931-catch-all-sms-to-email-on-dedicated-virtual-mobile-numbers"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401898-List-Based-Auto-replies",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076918-list-based-auto-replies"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401898-List-Based-Auto-Responders",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076918-list-based-auto-replies"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401908-Low-Cost-SMS-for-Rockend-REST-Professional",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076769-low-cost-sms-for-rockend-rest-professional"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401918-Zendesk-Integration-Receive-and-respond-to-tickets-via-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077067-zendesk-integration-receive-and-respond-to-tickets-via-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401918-Zendesk-Integration-Receive-and-respond-to-tickets-via-SMS-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077067-zendesk-integration-receive-and-respond-to-tickets-via-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401928-Australian-Virtual-Vanity-Numbers-Name-your-Sender-ID",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076830-australian-virtual-vanity-numbers-name-your-sender-id"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401938-Uploading-an-Apple-Address-Book-VCard-File",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076922-uploading-an-apple-address-book-vcard-file"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401948-Setting-up-and-Using-SMS-Templates",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076952-setting-up-and-using-sms-templates"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401958-Setting-and-Sending-SMS-Reminders-using-the-Quick-SMS-Bookmarklet",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076924-setting-and-sending-sms-reminders-using-the-quick-sms-bookmarklet"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401968-Australian-Spam-Compliance-Guide-1-0MB-PDF-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076744-australian-spam-compliance-guide-1-0mb-pdf-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401978-Burst-SMS-User-Guide",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076828-burst-sms-user-guide"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202401998-How-to-Avoid-Sending-SMS-SPAM-Australia-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076944-how-to-avoid-sending-sms-spam-australia-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402028-RubyGem-for-the-Burst-SMS-API",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076846-rubygem-for-the-burst-sms-api"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402058-Can-I-connect-using-SMPP-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076782-can-i-connect-using-smpp-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402068-Can-I-process-Opt-Outs-via-the-API-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076801-can-i-process-opt-outs-via-the-api-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402078-Does-it-cost-extra-to-connect-with-the-API-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076855-does-it-cost-extra-to-connect-with-the-api-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402088-Do-you-take-suggestions-for-new-methods-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001075809-do-you-take-suggestions-for-new-methods-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402118-Can-I-resell-the-API-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076789-can-i-resell-the-api-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402128-Email-SMS-X-Header-Support",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076792-email-sms-x-header-support"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402138-Question-marks-in-message-line-break-encoding",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076772-question-marks-in-message-line-break-encoding"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402148-Microsoft-Access-VBA-SMS-Wrapper",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076901-microsoft-access-vba-sms-wrapper"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402168-Do-I-have-to-pay-for-messages-that-are-bounced-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076716-do-i-have-to-pay-for-messages-that-are-bounced-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402208-I-got-the-alert-Pending-Review-when-I-scheduled-my-first-campaign-What-do-I-do-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077046-i-got-the-alert-pending-review-when-i-scheduled-my-first-campaign-what-do-i-do-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402218-Can-I-import-Apple-Address-Book-contacts-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076787-can-i-import-apple-address-book-contacts-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402228-What-is-the-best-way-to-format-the-CSV-file-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076754-what-is-the-best-way-to-format-the-csv-file-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402238-How-fast-can-the-messages-be-sent-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076762-how-fast-can-the-messages-be-sent-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402248-Do-I-pay-for-each-SMS-in-my-message-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076743-do-i-pay-for-each-sms-in-my-message-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402268-How-many-characters-can-I-have-in-my-text-message-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076957-how-many-characters-can-i-have-in-my-text-message-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402288-How-long-does-it-take-to-setup-a-reseller-account-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076791-how-long-does-it-take-to-setup-a-reseller-account-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402298-Do-you-take-functionality-requests-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001075780-do-you-take-functionality-requests-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402308-Where-do-my-clients-login-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001075811-where-do-my-clients-login-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402318-Can-I-have-clients-sign-up-directly-to-my-reseller-account-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076766-can-i-have-clients-sign-up-directly-to-my-reseller-account-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402348-Will-my-clients-see-any-Burst-SMS-information-or-branding-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076760-will-my-clients-see-any-burst-sms-information-or-branding-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202402358-What-prices-do-I-charge-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077011-what-prices-do-i-charge-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202458898-Terms-of-Service",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077098-terms-of-service"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202494888-get-sms-sent",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076839-get-sms-sent"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202494938-get-user-sms-responses",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076965-get-user-sms-responses"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202500828-send-sms",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077095-send-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202500838-get-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076844-get-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202501008-optout-list-member",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076842-optout-list-member"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202501158-get-keywords",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076845-get-keywords"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202510058-get-transactions",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076781-get-transactions"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202655305-Using-mobile-landing-pages-to-take-your-SMS-campaign-to-the-next-level",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076774-using-mobile-landing-pages-to-take-your-sms-campaign-to-the-next-level"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/202887595-Understanding-your-Sender-ID-Options",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077013-understanding-your-sender-id-options"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203098949-format-number",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076835-format-number"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203105527-Sample-NET-App",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076853-sample-net-app"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203116337-HTTP-Callbacks",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077069-http-callbacks"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203139007-add-to-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076834-add-to-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203139127-add-email",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076847-add-email"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203145737-get-clients",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001075791-transactions-get-clients"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203153505-Do-you-have-a-guide-for-industry-standards-SMS-delivery-rates-responses-etc-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076747-do-you-have-a-guide-for-industry-standards-sms-delivery-rates-responses-etc-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203426649-4-fundamental-truths-that-make-SMS-such-an-effective-channel-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076817-4-fundamental-truths-that-make-sms-such-an-effective-channel-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203427729-Every-mobile-campaign-can-be-a-personal-targeted-and-SPAM-free-communication-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076816-every-mobile-campaign-can-be-a-personal-targeted-and-spam-free-communication-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203613699-The-commoditisation-of-SMS-What-are-you-really-getting-from-your-provider-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076820-the-commoditisation-of-sms-what-are-you-really-getting-from-your-provider-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203614009-5-small-things-that-make-a-big-difference-to-Burst-SMS-clients-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076819-5-small-things-that-make-a-big-difference-to-burst-sms-clients-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203660149-The-Core-Values-of-Burst-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076818-the-core-values-of-burst-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203933049-More-than-just-a-message-Evaluating-the-Burst-SMS-API",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076974-more-than-just-a-message-evaluating-the-burst-sms-api"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/203984129-Like-our-SMS-platform-Rebrand-Resell-it-as-your-own-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077003-like-our-sms-platform-rebrand-resell-it-as-your-own-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204134685-SMS-SPAM-Compliance-Masterclass-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076992-sms-spam-compliance-masterclass-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204301099-What-are-my-Payment-Options-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076771-what-are-my-payment-options-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204477799-Java-SSL-Connection-Issues",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076837-java-ssl-connection-issues"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204627505-A-quick-introduction-to-the-Burst-SMS-REST-API",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076900-a-quick-introduction-to-the-burst-sms-rest-api"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204644555-Integrate-SMS-with-popular-systems-right-out-of-the-box-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076825-integrate-sms-with-popular-systems-right-out-of-the-box-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204691389-How-do-I-change-my-login-email-address-on-my-account-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076960-how-do-i-change-my-login-email-address-on-my-account-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204768499-How-to-add-a-single-recipient",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076942-how-to-add-a-single-recipient"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204780809-How-to-upload-contacts-from-a-CSV-file-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076950-how-to-upload-contacts-from-a-csv-file-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204832949-Viewing-and-Sorting-Contacts",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076941-viewing-and-sorting-contacts"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204851479-How-to-send-an-SMS-Campaign",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077076-how-to-send-an-sms-campaign"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204907999-How-to-setup-SMS-Keyword-Campaigns",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076927-how-to-setup-sms-keyword-campaigns"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204909159-How-to-manage-your-Global-Opt-Out-list-GOO-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077062-how-to-manage-your-global-opt-out-list-goo-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204913245-What-is-the-benefit-of-a-Dedicated-Virtual-Number-vs-Shared-Numbers-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076850-what-is-the-benefit-of-a-dedicated-virtual-number-vs-shared-numbers-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204913659-How-to-purchase-a-dedicated-Virtual-Mobile-Number-VMN-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076945-how-to-purchase-a-dedicated-virtual-mobile-number-vmn-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204954249-How-to-schedule-a-reminder",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076938-how-to-schedule-a-reminder"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204954289-How-to-save-a-contact-to-favourites",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076937-how-to-save-a-contact-to-favourites"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204954309-How-to-send-from-your-favourites-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076936-how-to-send-from-your-favourites-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204984599-How-to-view-the-status-of-your-messages",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076910-how-to-view-the-status-of-your-messages"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/204998619-How-to-manually-OPT-OUT-recipients-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077020-how-to-manually-opt-out-recipients-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205005239-Virtual-Mobile-Number-VMN-options",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076798-virtual-mobile-number-vmn-options"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205011919-Forward-SMS-keyword-responses-to-your-phone",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076943-forward-sms-keyword-responses-to-your-phone"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205025509-What-does-a-message-with-a-bounced-status-mean-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076804-what-does-a-message-with-a-bounced-status-mean-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205046159-remove-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077078-remove-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205058979-Common-API-Connection-Issues",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076860-common-api-connection-issues"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205430915-MailChimp-Add-subscriber-to-Burst-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077079-mailchimp-add-subscriber-to-burst-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205480425-Building-a-list-using-a-web-form-on-your-website",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076946-building-a-list-using-a-web-form-on-your-website"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205521355-How-to-rename-a-contact-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076948-how-to-rename-a-contact-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205576699-get-sms-stats",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077086-get-sms-stats"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205578855",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076940-how-to-receive-replies-to-email"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205578855-How-to-receive-replies-to-email",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076940-how-to-receive-replies-to-email"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205603469-The-Burst-SMS-Parent-Child-Account-Universe",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076903-the-burst-sms-parent-child-account-universe"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205615085-How-to-setup-and-send-a-Quick-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076939-how-to-setup-and-send-a-quick-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205627005-How-to-send-an-Email-SMS-SMTP-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077093-how-to-set-up-email-sms-smtp-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205627005-How-to-set-up-Email-SMS-SMTP-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077093-how-to-set-up-email-sms-smtp-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205634159-How-to-setup-a-child-account-for-your-client-department",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077007-how-to-setup-a-child-account-for-your-client-department"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205644669-How-to-grow-your-mobile-database",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076919-how-to-grow-your-mobile-database"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205644885-How-to-view-your-SMS-campaign-statistics",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076935-how-to-view-your-sms-campaign-statistics"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205661675-How-to-export-a-report-to-a-CSV-file",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076934-how-to-export-a-report-to-a-csv-file"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205661695-How-to-remove-hard-bounces-from-your-contact-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076746-how-to-remove-hard-bounces-from-your-contact-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205678585-How-to-setup-Enhanced-Reply-Automation-options-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076917-how-to-setup-enhanced-reply-automation-options-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205708195-How-can-I-email-my-invoice-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077085-how-can-i-email-my-invoice-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205750985-Integration-with-SwiftPOS-Software",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076930-integration-with-swiftpos-software"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/205765785-Can-I-set-an-expiry-time-for-pending-messages-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076805-can-i-set-an-expiry-time-for-pending-messages-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206038783-How-to-transfer-credit-from-parent-to-client-child-account",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076811-how-to-transfer-credit-from-parent-to-client-child-account"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206157246-Can-I-add-a-link-in-my-message-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076815-can-i-add-a-link-in-my-message-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206272695-add-field-to-list",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076836-add-field-to-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206291325-Why-did-my-recipient-receive-a-duplicate-message-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076776-why-did-my-recipient-receive-a-duplicate-message-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206341483-Reseller-Parent-Account-Default-Settings-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077006-reseller-parent-account-default-settings-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206344575-Build-an-opted-in-list-by-sending-a-text-to-a-dedicated-virtual-mobile-number-or-short-code-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076908-build-an-opted-in-list-by-sending-a-text-to-a-dedicated-virtual-mobile-number-or-short-code-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206344575-How-to-build-a-list-with-an-SMS-to-a-dedicated-virtual-mobile-number-or-short-code-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076908-build-an-opted-in-list-by-sending-a-text-to-a-dedicated-virtual-mobile-number-or-short-code-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206361243-How-to-view-your-stats-for-your-client-accounts",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076810-how-to-view-your-stats-for-your-client-accounts"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/206376156-Burst-SMS-Zendesk-Integration-How-it-works",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076926-burst-sms-zendesk-integration-how-it-works"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/207018886-How-to-track-a-link-within-your-message",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077014-how-to-track-a-link-within-your-message"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/207508893-UTF8-Emoji-Style-Symbols-you-can-Send-with-Burst-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076862-utf8-emoji-style-symbols-you-can-send-with-burst-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/207650943-Reply-Options-and-Opt-out-when-using-Custom-Sender-ID",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076991-reply-options-and-opt-out-when-using-custom-sender-id"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/207770036-Integration-with-JobAdder-Recruitment-Software-New-Zealand",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076923-integration-with-jobadder-recruitment-software-new-zealand"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/208112073-Integration-with-JobAdder-Recruitment-Software-Australia",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076911-integration-with-jobadder-recruitment-software-australia"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/209601726-Everything-you-need-to-know-on-sending-MMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077044-everything-you-need-to-know-on-sending-mms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/210315446-Send-an-SMS-from-your-Marketo-Program",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077048-send-an-sms-from-your-marketo-program"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/210363223-Zoho-CRM-SMS-Integration",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076996-zoho-crm-sms-integration"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/211382786-Two-Factor-Authentication-2FA-with-Burst-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076906-two-factor-authentication-2fa-with-burst-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/211502863--Standard-Rate-Short-Codes-vs-Free-To-End-User-Short-Codes",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077012--standard-rate-short-codes-vs-free-to-end-user-short-codes"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/211993786-Subscribe-to-a-MailChimp-list-via-a-text-message-using-Zapier",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077060-subscribe-to-a-mailchimp-list-via-a-text-message-using-zapier"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/212184106-Integration-with-JobAdder-Recruitment-Software-Singapore",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076904-integration-with-jobadder-recruitment-software-singapore"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/213656066-Global-SMS-Delivery-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077065-global-sms-delivery-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000017715-Email-SMS-to-Contact-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077000-email-sms-to-contact-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000021816-get-sms-delivery-status",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076973-get-sms-delivery-status"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000052015-Using-API-with-Node",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077049-using-api-with-node"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000077215-Sequencer-Automated-Messaging",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077017-sequencer-automated-messaging"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000093856-edit-number-options",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076989-edit-number-options"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000115556-US-Short-code-44696-Terms-and-Conditions-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077039-us-short-code-44696-terms-and-conditions-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000120716-How-to-locate-the-ID-of-a-message-send",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077053-how-to-locate-the-id-of-a-message-send"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000125176-Add-Update-MailChimp-subscriber-with-a-Keyword",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077059-add-update-mailchimp-subscriber-with-a-keyword"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000136855-Turn-on-off-an-auto-response-for-your-dedicated-number",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077018-turn-on-off-an-auto-response-for-your-dedicated-number"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000158136-get-contact",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001076998-get-contact"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000179695-Send-a-personalised-SMS-from-contacts-added-to-your-Burst-List",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077025-send-a-personalised-sms-from-contacts-added-to-your-burst-list"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000180135-Send-details-to-clients-from-received-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077026-send-details-to-clients-from-received-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000193516",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077034-compliance-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000193516-Compliance-Policy",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077034-compliance-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000193635",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077101-data-processing-agreement"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000193635-Data-Processing-Agreement",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077101-data-processing-agreement"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000193695",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077036-sub-processors"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000193695-Sub-Processors",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077036-sub-processors"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000194776",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077038-security-statement"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000194776-Security-Statement",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077038-security-statement"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000195376",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077043-cookie-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000195376-Cookie-Policy",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077043-cookie-policy"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000198395-GDPR-Data-Subject-Rights-Requests",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077037-gdpr-data-subject-rights-requests"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000237715-Receiving-MMS-from-your-customers",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077045-receiving-mms-from-your-customers"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000300595-Canadian-Short-Code-28778-Terms-and-Conditions",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077097-canadian-short-code-28778-terms-and-conditions"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000367775-Singapore-Virtual-Mobile-Number-Change",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077055-singapore-virtual-mobile-number-change"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000387395-Integrating-via-Zapier",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077084-integrating-via-zapier"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000491796",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077074-how-to-use-email-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000491796-How-to-use-Email-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077074-how-to-use-email-sms"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000684755-US-Short-code-98943-Terms-and-Conditions-",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077073-us-short-code-98943-terms-and-conditions-"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000761916-GDPR-and-Data-Storage-Location",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077087-gdpr-and-data-storage-location"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000814136-Trigger-SMS-alerts-from-Slack-with-Zapier",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077091-trigger-sms-alerts-from-slack-with-zapier"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/articles/360000848475-Send-SMS-Confirmations-and-Reminders-to-Calendly-Invitees-via-Zapier",
+          "New URL": "http://help.burstsms.com/support/solutions/articles/44001077104-send-sms-confirmations-and-reminders-to-calendly-invitees-via-zapier"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/categories/200141808-Burst-SMS-Help-Desk",
+          "New URL": "http://help.burstsms.com/support/solutions/44000511150"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/categories/200154016-API-Documentation",
+          "New URL": "http://help.burstsms.com/support/solutions/44000511151"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/categories/200405309-User-Guide",
+          "New URL": "http://help.burstsms.com/support/solutions/44000511149"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/115001454123-Zapier-Integrations",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755622"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200204619-Account",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755605"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200410618-Tips-and-Solutions",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755613"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200410638-API-Support",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755611"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200416418-Agreements-Policies",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755620"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200421838-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755619"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200423538-Lists",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755616"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200423648-Resellers",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755600"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200432467-Overview",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755623"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200434387-Numbers",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755617"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200434397-Email-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755599"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200434407-Keywords",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755606"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200436996-FAQ-s",
+          "New URL": "http://help.burstsms.com/support/solutions/44000506806"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/200437006-Resellers",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755600"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201068259-Contacts",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755612"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201080709-Virtual-Mobile-Numbers",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755604"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201088609-Email-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755618"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201133275-Send-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755615"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201133285-Keywords",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755602"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201143695-Quick-SMS",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755603"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201151415-Activity",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755609"
+      },
+      {
+          "Old URL": "http://13.239.167.74:8080/hc/en-us/sections/201521623-Reseller-Parent-Child-Accounts",
+          "New URL": "http://help.burstsms.com/support/solutions/folders/44000755608"
+      }
+  ]
+  }
