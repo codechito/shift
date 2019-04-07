@@ -9,7 +9,6 @@ let ShiftList = {};
 for(var i=0;i<config.List.length;i++){
   ShiftList[config.List[i]["Old URL"]] = config.List[i]["New URL"];
 }
-console.log(ShiftList);
 
 app.all("*",function(req,res){
   var requrl = url.format({
