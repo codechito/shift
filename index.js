@@ -18,14 +18,17 @@ app.all("*",function(req,res){
     pathname: req.originalUrl
   });
   if(ShiftList[requrl]){
+    console.log(requrl," redirected to ...", ShiftList[requrl]);
     res.redirect(ShiftList[requrl]);
   }
   else{
     if(req.query.query){
       requrl = config.SearchURL + "?term=" + req.query.query;
+      console.log("Search redirected to ...", requrl);
       res.redirect(requrl);
     }
     else{
+      console.log("Default redirected to ...", requrl);
       res.redirect(config.SupportURL);
     }
   }
