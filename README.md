@@ -37,8 +37,11 @@ for unlisted url it will do the following
 e.g.
 
 https://support.burstsms.com/hc/en-us/search?query=what+is+life
-will become
+
+will redirect to 
+
 http://help.burstsms.com/support/search?term=what+is+life
 
+you can modify the default redirect in the config
 
 
