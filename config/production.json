@@ -1,7 +1,7 @@
 {
   "port": 3000,
   "SearchURL": "http://help.burstsms.com/support/search/",
-  "SupportURL": "http://help.burstsms.com",
+  "SupportURL": "http://help.burstsms.com/support/home",
   "List": [
     {
         "Old URL": "https://support.burstsms.com/hc/en-us",
