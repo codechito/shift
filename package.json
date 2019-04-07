@@ -1,0 +1,27 @@
+{
+  "name": "shift",
+  "version": "0.0.1",
+  "description": "URL redirector for support weblinks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codechito/shift.git"
+  },
+  "keywords": [
+    "redirect",
+    "shift"
+  ],
+  "author": "Chito Cascante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codechito/shift/issues"
+  },
+  "homepage": "https://github.com/codechito/shift#readme",
+  "dependencies": {
+    "config": "^3.0.1",
+    "express": "^4.16.4"
+  }
+}
