@@ -32,5 +32,13 @@ e.g. for
 
 copy and paste "http://localhost:3000/hc/en-us" in the browser address bar will redirect to "http://help.burstsms.com/support/home"
 
+for unlisted url it will do the following
+
+e.g.
+
+https://support.burstsms.com/hc/en-us/search?query=what+is+life
+will become
+http://help.burstsms.com/support/search?term=what+is+life
+
 
 
