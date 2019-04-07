@@ -21,8 +21,13 @@ app.all("*",function(req,res){
     res.redirect(ShiftList[requrl]);
   }
   else{
-    requrl = config.SearchURL + "?term=" + req.query.query;
-    res.redirect(requrl);
+    if(req.query.query){
+      requrl = config.SearchURL + "?term=" + req.query.query;
+      res.redirect(requrl);
+    }
+    else{
+      res.redirect(config.SupportURL);
+    }
   }
 });
 app.set('port', config.port);
