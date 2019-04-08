@@ -14,7 +14,7 @@ $> npm install
 
 3. Run the website
 
-$> node index.js
+$> NODE_ENV=staging node index.js
 
 ## How to test
 
